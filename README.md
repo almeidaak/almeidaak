@@ -6,6 +6,6 @@ meu nome é joao
 - estou me desenvolvendo na linguagem javascript
 
 ### voce pode entrar em contato para me dar nota 🙂
-![]mage](https://github.com/almeidaak/almeidaak/assets/134075356/b1a50e35-53b7-4fdb-9483-c4536b5de880)
+![Image](https://github.com/almeidaak/almeidaak/assets/134075356/b1a50e35-53b7-4fdb-9483-c4536b5de880)
 
 
